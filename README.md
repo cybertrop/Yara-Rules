@@ -1,2 +1,2 @@
 # yara-rules
-Yara rules I wrote
+Collection of Yara rules I ended up writing for various projects
