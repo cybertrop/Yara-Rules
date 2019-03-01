@@ -1,3 +1,4 @@
+rule osxpmem
 {
 	meta:
 		description = "OSXPMEM is a memory acquisition and analysis tool used to quickly collect RAM from a Mac system."
